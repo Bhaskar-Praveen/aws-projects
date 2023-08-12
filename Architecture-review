@@ -1,1 +1,18 @@
-
+Architecting the web application from scratch!
+How to create and host a web page for our web application
+Creating an index.html page from scratch in a text editor
+Deploying and hosting a web page with AWS Amplify
+How to do math calculations in our web application
+Creating a Python Lambda function to implement our math functionality
+Testing our Lambda function 
+How to invoke our Lambda function
+Creating a REST API for our Lambda function using API Gateway Service
+How to persist our math result to a database, and also handle permissions and creating Inline policies
+Creating a new DynamoDB table to store our math result
+Giving Lambda permission to write to the DynamoDB table
+Updating the Lambda function code to write to the DynamoDB table
+Invoking the API Gateway endpoint from the index.html page in Amplify
+Updating the index.html page to call API Gateway
+Re-deploying our index.html page using Amplify
+our completed web application has successfully deployed!
+IMPORTANT!!  Delete your resources after creating application.
